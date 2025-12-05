@@ -24,8 +24,8 @@ A modern, responsive real-time GPS location tracking application that allows mul
 
 ```bash
 # Clone the repository
-git clone https://github.com/LalitPatil05/Realtime-Device-Tracker.git
-cd Realtime-Device-Tracker
+git clone https://github.com/LalitPatil05/Realtime-Device-Tracking-System.git
+cd Realtime-Device-Tracking-System
 
 # Install dependencies
 npm install
